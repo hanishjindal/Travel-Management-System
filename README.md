@@ -1,8 +1,8 @@
-# Travel Agency Management System
+# Travel Management System
 
 ## Overview
 
-This project implements a Travel Agency Management System in Java. The system allows travel agencies to maintain travel packages' itinerary and passengers. It includes functionality for managing destinations, activities, passengers with different types, and their interactions.
+This project implements a Travel Management System in Java. The system allows travel agencies to maintain travel packages' itinerary and passengers. It includes functionality for managing destinations, activities, passengers with different types, and their interactions.
 
 ## High-Level Design
 
@@ -18,7 +18,7 @@ The implementation is done in Java, adhering to SOLID principles and clean code 
 
 ## Usage
 
-To use the Travel Agency Management System, follow these steps:
+To use the Travel Management System, follow these steps:
 
 1. Clone the repository:
 
